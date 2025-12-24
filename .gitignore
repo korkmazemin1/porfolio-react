@@ -1,0 +1,40 @@
+# Dependencies (Bağımlılıklar - Asla yüklenmez)
+node_modules/
+.pnp
+.pnp.js
+
+# Production Build (Derlenmiş site dosyaları)
+dist/
+build/
+
+# Testing (Test raporları)
+coverage/
+
+# Environment Variables (Gizli anahtarlar - KRİTİK!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs (Hata kayıtları)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor Files (VS Code / Mac / Windows gereksiz dosyaları)
+.DS_Store
+*.pem
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db
+
+# Vercel
+.vercel
