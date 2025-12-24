@@ -53,8 +53,8 @@ export const siteData = {
     }
   ],
   socials: [
-    { icon: Github, href: "https://github.com/eminkorkmaz", label: "GitHub", color: "hover:text-foreground hover:shadow-neon-cyan" },
-    { icon: Linkedin, href: "https://linkedin.com/in/eminkorkmaz", label: "LinkedIn", color: "hover:text-[#0077B5] hover:shadow-neon-cyan" },
+    { icon: Github, href: "https://github.com/korkmazemin1", label: "GitHub", color: "hover:text-foreground hover:shadow-neon-cyan" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/muhammet-emin-korkmaz-a54993190/", label: "LinkedIn", color: "hover:text-[#0077B5] hover:shadow-neon-cyan" },
     { icon: Twitter, href: "https://twitter.com", label: "Twitter", color: "hover:text-[#1DA1F2] hover:shadow-neon-cyan" },
     { icon: Mail, href: "mailto:iletisim@eminkorkmaz.com", label: "Email", color: "hover:text-secondary hover:shadow-neon-purple" }
   ],
